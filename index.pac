@@ -2579,7 +2579,7 @@ var domains = {
   "duckduckgo.com": 1
 };
 
-var proxy = "PROXY 104.224.129.194:21;";
+var proxy = "PROXY 104.224.138.42:25;";
 
 var direct = 'DIRECT;';
 
